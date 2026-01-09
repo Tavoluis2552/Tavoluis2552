@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Luis Siancas</h1>
+<h1 align="center">👋 Hi, I'm Luis Siancas</h1>
 
 <p>
 Systems Engineer passionate about discovering new technologies and understanding which ones dominate modern software development.
@@ -58,7 +58,9 @@ I adapt easily to new environments and focus my work on solving problems efficie
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlserver" width="45"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
@@ -77,8 +79,12 @@ I adapt easily to new environments and focus my work on solving problems efficie
 <h3>🔹 Data & Analysis</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=excel" width="45"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=powerbi" width="45"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    </td>
   </tr>
 </table>
 
